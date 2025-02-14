@@ -1,0 +1,1 @@
+# Automatizovany-test-API-pro-mereni-necistot
